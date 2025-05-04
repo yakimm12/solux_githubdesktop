@@ -1,9 +1,5 @@
 안녕하세요 !
 반갑습니다 ~~~
 Hello World //branch_2의 변경사항 
-<<<<<<< HEAD
-hello!! //branch_1 의 변경사항 
-=======
 hello //branch_1 의 변경사항 
 Hi
->>>>>>> dac16a9041eff0a0a0dcc73b7acaf818c0e0783f
