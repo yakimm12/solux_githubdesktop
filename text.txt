@@ -1,6 +1,2 @@
-안녕하세요 !
-반갑습니다 ~~~
-Hello World //branch_2의 변경사항 
-hello //branch_1 의 변경사항 
-Hi
 main 브랜치의 첫번째 커밋
+main 브랜치의 두번째 커밋
